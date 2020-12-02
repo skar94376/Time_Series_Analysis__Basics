@@ -1,3 +1,3 @@
-Time Series Analysis : Forecasting of sales of Champagne
+## Time Series Analysis :
 
-ACF || PACF || ARIMA || SARIMA
+**ACF || PACF || ARIMA || SARIMA**
